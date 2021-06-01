@@ -4,7 +4,7 @@ root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "9-10 June 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 am - 5:00 pm PDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-06-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-06-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Erin Becker", "Jeff Oliver"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -143,16 +143,12 @@ attempt to provide them.
 <h3>Requirements</h3>
 
 Participants should bring a laptop that is Internet connected and has a
-functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as throughout the two days, we
-are going to record one another teaching in pairs or threes. It does not have
-to be high-quality, but it should be good enough that you can understand what
-someone is saying.
+functioning browser. 
 
 Please note that after this course is over, you will be asked to do
 three short follow-up exercises online in order to finish qualifying
 as an instructor: the details are available at
-<a href="{{ site.training_site }}/14-checkout/">{{ site.training_site }}/14-checkout/</a>.
+<a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
 If you have any questions about the workshop, the reading material,
 or anything else, please get in touch.
 
@@ -193,7 +189,7 @@ for more information.
 </p>
 <ol>
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
-  <li><a href="https://carpentries.org/files/reports/TheCarpentries2019AnnualReport.pdf">The Carpentries 2019 Annual Report</a></li>
+  <li><a href="https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf">The Carpentries 2020 Annual Report</a></li>
 </ol>
 <p>
   Please also read through <em>one</em> episode of one of The Carpentries lessons below   
